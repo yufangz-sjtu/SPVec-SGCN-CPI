@@ -1,0 +1,12 @@
+Ligand Interactions Report
+
+ Thu Nov 16 19:55:40 2023 (MOE 2018.01)
+
+3V4P: CELL ADHESION / 3V4P
+
+Ligand      Receptor              Interaction  Distance  E (kcal/mol)
+CL   1      OG     SER  48   (A)  H-donor       3.51      -0.7
+O    24     OD2    ASP  90   (A)  H-donor       2.79      -7.9
+C    36     OE1    GLU  87   (A)  H-donor       3.39      -0.5
+6-ring      NH2    ARG  89   (A)  pi-cation     3.88      -0.8
+

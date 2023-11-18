@@ -1,0 +1,11 @@
+Ligand Interactions Report
+
+ Thu Nov 16 00:11:36 2023 (MOE 2018.01)
+
+7F61: MEMBRANE PROTEIN / 7F61
+
+Ligand      Receptor              Interaction  Distance  E (kcal/mol)
+O    1      N      GLY  28   (A)  H-acceptor    3.59      -0.7
+C    55     6-ring TYR  189  (A)  H-pi          4.59      -0.8
+6-ring      CA     VAL  95   (A)  pi-H          4.51      -0.6
+
